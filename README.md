@@ -45,5 +45,7 @@ Unity 2020.3.10f1
 <br>
 
 マップ構成<br>
-![maps](imgs/maps.png)
+![map1](imgs/map1.png)
+![map2](imgs/map2.png)
+![map3](imgs/map3.png)
 <br>
