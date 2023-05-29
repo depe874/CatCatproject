@@ -24,10 +24,10 @@ Unity 2020.3.10f1
 ![how-to-play2](imgs/how_to_play_2.jpg)
 ![how-to-play3](imgs/how_to_play_3.jpg)
 
-ログイン画面:
+ログイン画面:\n
 ![login](imgs/players_login.jpg)
 
-部屋を作成する：
+部屋を作成する：\n
 ![make-room](imgs/make_a_room.jpg)
 
 マッチング画面
