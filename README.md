@@ -24,20 +24,26 @@ Unity 2020.3.10f1
 ![how-to-play2](imgs/how_to_play_2.jpg)
 ![how-to-play3](imgs/how_to_play_3.jpg)
 
-ログイン画面:\n
+ログイン画面<br>
 ![login](imgs/players_login.jpg)
+<br>
 
-部屋を作成する：\n
+部屋を作成する<br>
 ![make-room](imgs/make_a_room.jpg)
+<br>
 
-マッチング画面
+マッチング画面<br>
 ![matching](imgs/matching.jpg)
+<br>
 
-プレイ中：
+プレイ中<br>
 ![play](imgs/play.png)
+<br>
 
-リザルト画面：
+リザルト画面<br>
 ![result](imgs/result.png)
+<br>
 
-マップ構成：
+マップ構成<br>
 ![maps](imgs/maps.png)
+<br>
